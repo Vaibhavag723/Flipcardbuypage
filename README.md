@@ -25,13 +25,13 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/my-ashope.git
+https://github.com/Vaibhavag723/Flipcardbuypage.git
 Navigate to the Project Directory:
 
 bash
 Copy code
 cd my-ashope
-Open the HTML file: Open the index.html file in your browser to view the project.
+Open the HTML file: Open the Flipcard buying page.html file in your browser to view the project.
 
 Alternatively, you can use a local server (e.g., Live Server extension in Visual Studio Code) to run the project.
 
